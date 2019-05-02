@@ -1,8 +1,3 @@
-require "beauty/sales/version"
-
-module Beauty
-  module Sales
-    class Error < StandardError; end
-    # Your code goes here...
-  end
-end
+module BeautySales 
+  VERSION = "0.1.0" 
+end 
