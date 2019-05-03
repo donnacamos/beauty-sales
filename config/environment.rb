@@ -1,5 +1,7 @@
-require 'nokogiri' 
-require 'open-uri' 
+require 'nokogiri'
+require 'pry'
+require 'open-uri'
+require 'beauty-sales'  
 
 require_relative '../lib/beauty-sales/cli.rb' 
 require_relative '../lib/beauty-sales/product.rb' 

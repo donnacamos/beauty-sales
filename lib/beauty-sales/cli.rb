@@ -1,16 +1,15 @@
 class BeautySales::CLI 
-  require 'pry' 
+   
   def call 
-    BeautySales::Scraper 
     puts "Hello, Beautiful! Welcome to the daily makeup sales of Ulta Beauty." 
-    start 
+   # start 
   end 
   
-  def start 
-    puts ""
-    puts "Which Ulta Beauty Sales product page would you like to see? 1, 2, 3, 4, 5, 6, 7?" 
+ # def start 
+  #  puts ""
+  # puts "Which Ulta Beauty Sales product page would you like to see? 1, 2, 3, 4, 5, 6, 7?" 
    
-  end 
+#  end 
   
   
 end 
