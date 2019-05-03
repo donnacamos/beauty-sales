@@ -24,7 +24,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Type the below and follow the screen prompts
+
+     $ beauty-sales
 
 ## Development
 
