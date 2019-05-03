@@ -1,10 +1,10 @@
-Hello Beautiful!
+
 
 # Beauty Sales
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/beauty/sales`. To experiment with that code, run `bin/console` for an interactive prompt.
+Hello, Beautiful! Welcome to the Beauty Sales App! This is your guide to the daily sales of Ulta Beauty's website. 
+Fork the repo, and enter `./bin/beauty-sales` into your terminal. Follow the prompts after that to see the latest beauty products on sale now!
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
